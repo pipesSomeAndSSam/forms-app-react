@@ -1,6 +1,4 @@
 import React from 'react'
-import Form from '../components/forms/Form.css'
-import supabase from '../lib/helper/supabaseClient'
 
 function List() {
   return (
